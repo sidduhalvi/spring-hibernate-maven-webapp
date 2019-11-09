@@ -1,9 +1,9 @@
 <settings>
 <servers>
     <server>
-      <id>releases</id>
+      <id>sindhu</id>
       <username>admin</username>
-      <password>admin123</password>
+      <password>password</password>
     </server>
 </servers>
 </settings>
