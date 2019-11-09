@@ -153,8 +153,8 @@
 	</build>
 	<distributionManagement>
         <repository>
-         <id>releases</id>
-         <url>http://35.222.137.67:8081/nexus/content/repositories/releases</url>
+         <id>sindhu</id>
+         <url>http://35.226.221.5:8081/artifactory/sindhu</url>
         </repository>
     	</distributionManagement>
 </project>
