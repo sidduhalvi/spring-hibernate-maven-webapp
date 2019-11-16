@@ -154,7 +154,7 @@
 	<distributionManagement>
         <repository>
          <id>sindhu</id>
-         <url>http://35.226.221.5:8081/artifactory/sindhu</url>
+         <url>http://35.193.166.233:8081/repository/maven-releases/</url>
         </repository>
     	</distributionManagement>
 </project>
